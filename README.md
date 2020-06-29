@@ -1,8 +1,8 @@
 ## docker-ce
 docker-ce offline installation
 
-## download banary docker-ce file you need:
-wget https://download.docker.com/linux/static/stable/x86_64/
+## download banary files From 
+https://download.docker.com/linux/static/stable/x86_64/
 
 carete the install script be like this:
 https://github.com/liumiaocn/easypack/blob/master/docker/install-docker.sh
